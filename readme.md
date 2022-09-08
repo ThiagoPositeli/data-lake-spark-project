@@ -15,6 +15,7 @@ In this project, you'll apply what you've learned on Spark and data lakes to bui
 
 <h43>Database Schema</h3>
 
+<img width="723" alt="Captura de Tela 2022-09-08 às 10 49 25" src="https://user-images.githubusercontent.com/92527247/189140276-7e6634a3-b500-4db0-8aab-4bee0378d55d.png">
 
 
 <h3>How to run: ETL Pipeline</h3>
