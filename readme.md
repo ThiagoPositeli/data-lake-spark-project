@@ -13,7 +13,8 @@ You'll be able to test your database and ETL pipeline by running queries given t
 In this project, you'll apply what you've learned on Spark and data lakes to build an ETL pipeline for a data lake hosted on S3. To complete the project, you will need to load data from S3, process the data into analytics tables using Spark, and load them back into S3. You'll deploy this Spark process on a cluster using AWS.
 
 
-<h43>Database Schema</h3>
+
+<h3>Database</h3>
 
 <img width="723" alt="Captura de Tela 2022-09-08 às 10 49 25" src="https://user-images.githubusercontent.com/92527247/189140276-7e6634a3-b500-4db0-8aab-4bee0378d55d.png">
 
